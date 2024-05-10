@@ -1,0 +1,8 @@
+// {
+//   "compilerOptions": {
+//     "module": "ES6",
+//     "target": "ES6",
+//     "outDir": "../../dist/__test__/"
+//   },
+//   "include": ["src/__test__/**/*"]
+// }

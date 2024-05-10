@@ -4,8 +4,9 @@
   "description": "",
   "main": "index.ts",
   "scripts": {
-    "dev": "tsc index.ts",
-    "node": "ts-node index.ts"
+    "dev": "tsc",
+    "node": "ts-node index.ts",
+    "test": "tsc"
   },
   "keywords": [],
   "author": "",

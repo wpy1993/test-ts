@@ -1,0 +1,9 @@
+{
+  "extends": ["./config/tsconfig.base.json", "./config/tsconfig.strict.json"],
+
+  "include": ["./src/__test__/**/*"],
+  "exclude": ["./src/Unpack/**/*"],
+  "compilerOptions": {
+    "outDir": "./dist/__test__/",
+  },
+}
